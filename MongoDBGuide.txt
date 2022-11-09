@@ -1,0 +1,4 @@
+find: Lấy dữ liệu trong DB
+create: Thêm dữ liệu vào DB
+update: Sửa dữ liệu trong DB
+Delete: Xóa dữ liệu trong DB
